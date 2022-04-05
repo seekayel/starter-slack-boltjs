@@ -20,7 +20,7 @@ Deploy a Slack Bot onto Cyclic using Boltjs framework.
 
 ### Example Secret Values
 
-```toml
+```
 SLACK_SIGNING_SECRET=somelongalphanumericwithouthyphens
 SLACK_BOT_TOKEN=xoxb-some-long-alpha-numeric-with-hyphens
 ```
